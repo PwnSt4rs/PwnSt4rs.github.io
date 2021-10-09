@@ -20,12 +20,13 @@
     /* font-family: Montserrat, sans-serif; */
     background: var(--clr-gray100);
     list-style-type: none;
-    text-align: left;
+    /* text-align: left; */
     text-decoration: none; 
     /*padding: 20%;
   */}
   .obj{
-    padding-left: 650px;
+    text-align: center;
+    /* padding-left: c; */
   } 
   div summary{
     font-size :20px;
